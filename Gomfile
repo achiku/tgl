@@ -1,3 +1,4 @@
 gom 'github.com/pkg/errors'
 gom 'github.com/gizak/termui'
 gom 'github.com/achiku/toggl'
+gom 'github.com/lucasb-eyer/go-colorful'
